@@ -1,4 +1,4 @@
-# Axon Retail Sales Dashboard
+# **Axon Retail Sales Dashboard** [![Follow hari kiran adangi](https://img.shields.io/badge/Follow-harikiranadangi-0A66C2?logo=linkedin)](https://www.linkedin.com/in/hari-kiran-adangi-b3b568128/)
 
 # Problem Statement:
 Axon, a small retailer specializing in classic cars, is encountering challenges in managing and analyzing their sales data effectively. Their sales team struggles to interpret the data due to its complexity, leading to difficulties in making informed decisions. Additionally, the lack of a centralized system further exacerbates the problem, as the management faces delays in obtaining accurate and up-to-date sales reports, impacting their decision-making process. To address these issues, Axon has decided to implement a Business Intelligence (BI) solution.
